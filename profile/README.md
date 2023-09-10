@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome the IBIS Open Forum
 
 <!--
 
